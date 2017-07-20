@@ -1,0 +1,19 @@
+//
+//  JeniusGame-Prefix.pch
+//  JeniusGame
+//
+//  Created by CIZ on 2017/7/12.
+//  Copyright © 2017年 CIZ. All rights reserved.
+//
+
+#ifndef JeniusGame_Prefix_pch
+#define JeniusGame_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "SSMacros.h"
+#import "SSLayoutMacros.h"
+#import <Masonry.h>
+
+#endif /* JeniusGame_Prefix_pch */
